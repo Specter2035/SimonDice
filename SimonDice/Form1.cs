@@ -38,5 +38,26 @@ namespace SimonDice
         {
             this.Refresh();
         }
+
+        private void btnSimonReverso_Click(object sender, EventArgs e)
+        {
+            SelecNivelReverso sn = new SelecNivelReverso();
+            sn.Show();
+            this.Hide();
+        }
+
+        private void btnSimonBrinca_Click(object sender, EventArgs e)
+        {
+            SimonBrinca smnBrinca = new SimonBrinca();
+            smnBrinca.Show();
+            this.Hide();
+        }
+
+        private void btnSimonSorpresa_Click(object sender, EventArgs e)
+        {
+            SmnSorpresa smnSorpresa = new SmnSorpresa();
+            smnSorpresa.Show();
+            this.Hide();
+        }
     }
 }

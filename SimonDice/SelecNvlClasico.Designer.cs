@@ -96,6 +96,7 @@
             this.btnN4.TabIndex = 9;
             this.btnN4.Text = "Nivel 4";
             this.btnN4.UseVisualStyleBackColor = true;
+            this.btnN4.Click += new System.EventHandler(this.btnN4_Click);
             // 
             // SelecNvlClasico
             // 

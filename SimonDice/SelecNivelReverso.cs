@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SimonDice
 {
-    public partial class SelecNvlClasico : Form
+    public partial class SelecNivelReverso : Form
     {
-        public SelecNvlClasico()
+        public SelecNivelReverso()
         {
             InitializeComponent();
         }
@@ -26,29 +26,22 @@ namespace SimonDice
 
         private void btnN1_Click(object sender, EventArgs e)
         {
-            SimonDiceClasico n1 = new SimonDiceClasico();
-            n1.Show();
+            SmnReversoN1 sn1 = new SmnReversoN1();
+            sn1.Show();
             this.Hide();
         }
 
         private void btnN2_Click(object sender, EventArgs e)
         {
-            SmnDiceClasicoN2 n2 = new SmnDiceClasicoN2();
-            n2.Show();
+            SmnReversoN2 sn2 = new SmnReversoN2();
+            sn2.Show();
             this.Hide();
         }
 
         private void btnN3_Click(object sender, EventArgs e)
         {
-            SmnDiceClasicoN3 n3 = new SmnDiceClasicoN3();
-            n3.Show();
-            this.Hide();
-        }
-
-        private void btnN4_Click(object sender, EventArgs e)
-        {
-            SmnDiceClasicoN4 n4 = new SmnDiceClasicoN4();
-            n4.Show();
+            SmnReversoN3 sn3 = new SmnReversoN3();
+            sn3.Show();
             this.Hide();
         }
     }

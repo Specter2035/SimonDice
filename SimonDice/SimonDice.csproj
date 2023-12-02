@@ -55,17 +55,35 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelecNivelReverso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelecNivelReverso.Designer.cs">
+      <DependentUpon>SelecNivelReverso.cs</DependentUpon>
+    </Compile>
     <Compile Include="SelecNvlClasico.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="SelecNvlClasico.Designer.cs">
       <DependentUpon>SelecNvlClasico.cs</DependentUpon>
     </Compile>
+    <Compile Include="SimonBrinca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimonBrinca.Designer.cs">
+      <DependentUpon>SimonBrinca.cs</DependentUpon>
+    </Compile>
     <Compile Include="SimonDiceClasico.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="SimonDiceClasico.Designer.cs">
       <DependentUpon>SimonDiceClasico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmnSorpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmnSorpresa.Designer.cs">
+      <DependentUpon>SmnSorpresa.cs</DependentUpon>
     </Compile>
     <Compile Include="SmnDiceClasicoN2.cs">
       <SubType>Form</SubType>
@@ -78,6 +96,30 @@
     </Compile>
     <Compile Include="SmnDiceClasicoN3.Designer.cs">
       <DependentUpon>SmnDiceClasicoN3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmnDiceClasicoN4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmnDiceClasicoN4.Designer.cs">
+      <DependentUpon>SmnDiceClasicoN4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmnReversoN1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmnReversoN1.Designer.cs">
+      <DependentUpon>SmnReversoN1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmnReversoN2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmnReversoN2.Designer.cs">
+      <DependentUpon>SmnReversoN2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmnReversoN3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmnReversoN3.Designer.cs">
+      <DependentUpon>SmnReversoN3.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -92,17 +134,38 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SelecNivelReverso.resx">
+      <DependentUpon>SelecNivelReverso.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SelecNvlClasico.resx">
       <DependentUpon>SelecNvlClasico.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="SimonBrinca.resx">
+      <DependentUpon>SimonBrinca.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SimonDiceClasico.resx">
       <DependentUpon>SimonDiceClasico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmnSorpresa.resx">
+      <DependentUpon>SmnSorpresa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SmnDiceClasicoN2.resx">
       <DependentUpon>SmnDiceClasicoN2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SmnDiceClasicoN3.resx">
       <DependentUpon>SmnDiceClasicoN3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmnDiceClasicoN4.resx">
+      <DependentUpon>SmnDiceClasicoN4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmnReversoN1.resx">
+      <DependentUpon>SmnReversoN1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmnReversoN2.resx">
+      <DependentUpon>SmnReversoN2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmnReversoN3.resx">
+      <DependentUpon>SmnReversoN3.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -74,6 +74,7 @@
             this.btnSimonBrinca.TabIndex = 3;
             this.btnSimonBrinca.Text = "Simon Brinca";
             this.btnSimonBrinca.UseVisualStyleBackColor = false;
+            this.btnSimonBrinca.Click += new System.EventHandler(this.btnSimonBrinca_Click);
             // 
             // btnSimonSorpresa
             // 
@@ -85,6 +86,7 @@
             this.btnSimonSorpresa.TabIndex = 2;
             this.btnSimonSorpresa.Text = "Simon Sorpresa";
             this.btnSimonSorpresa.UseVisualStyleBackColor = false;
+            this.btnSimonSorpresa.Click += new System.EventHandler(this.btnSimonSorpresa_Click);
             // 
             // btnSimonReverso
             // 
@@ -96,6 +98,7 @@
             this.btnSimonReverso.TabIndex = 1;
             this.btnSimonReverso.Text = "Simon Dice Reverso";
             this.btnSimonReverso.UseVisualStyleBackColor = false;
+            this.btnSimonReverso.Click += new System.EventHandler(this.btnSimonReverso_Click);
             // 
             // btnSimonClasico
             // 
