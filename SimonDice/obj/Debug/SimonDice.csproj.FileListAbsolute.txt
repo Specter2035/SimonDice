@@ -1,0 +1,14 @@
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\bin\Debug\SimonDice.exe.config
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\bin\Debug\SimonDice.exe
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\bin\Debug\SimonDice.pdb
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.Form1.resources
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.Properties.Resources.resources
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.SelecNvlClasico.resources
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.exe
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.pdb
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.SimonDiceClasico.resources
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.SmnDiceClasicoN2.resources
+C:\Users\carlo\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 4\SimonDice\obj\Debug\SimonDice.SmnDiceClasicoN3.resources
