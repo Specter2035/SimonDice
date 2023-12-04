@@ -129,7 +129,7 @@
             this.P_1.TabStop = false;
             this.P_1.Click += new System.EventHandler(this.P_0_Click);
             this.P_1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.P_1_MouseDown);
-            this.P_1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.P_3_MouseUp);
+            this.P_1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.P_1_MouseUp);
             // 
             // P_0
             // 
@@ -146,7 +146,7 @@
             // 
             // timer1
             // 
-            this.timer1.Interval = 4000;
+            this.timer1.Interval = 30000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // SimonDiceClasico

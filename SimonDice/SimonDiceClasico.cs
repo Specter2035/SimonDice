@@ -49,9 +49,9 @@ namespace SimonDice
                         P_0.Image = Properties.Resources.CAzul_1;
                         break;
                     case 1:
-                        P_1.Image = Properties.Resources.CVerde_2;
-                        Thread.Sleep(800);
                         P_1.Image = Properties.Resources.CVerde_01;
+                        Thread.Sleep(800);
+                        P_1.Image = Properties.Resources.CVerde_2;
                         break;
                     case 2:
                         P_2.Image = Properties.Resources.CRojo_2;
@@ -137,13 +137,13 @@ namespace SimonDice
 
         private void P_1_MouseDown(object sender, MouseEventArgs e)
         {
-            P_1.Image = Properties.Resources.CVerde_2;
+            P_1.Image = Properties.Resources.CVerde_01;
             ReproducirMusica();
         }
 
         private void P_1_MouseUp(object sender, MouseEventArgs e)
         {
-            P_1.Image = Properties.Resources.CVerde_01;
+            P_1.Image = Properties.Resources.CVerde_2;
         }
 
         private void P_2_MouseDown(object sender, MouseEventArgs e)
